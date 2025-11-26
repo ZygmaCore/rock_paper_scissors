@@ -82,8 +82,8 @@ You need:
 Clone repository:
 
 ```bash
-git clone https://github.com/yourusername/zygmacore-rps.git
-cd zygmacore-rps
+git clone https://github.com/ZygmaCore/rock_paper_scissors.git
+cd rock_paper_scissors
 ```
 
 (Optional) Create virtual environment:
@@ -103,7 +103,7 @@ source .venv/bin/activate
 Run the game:
 
 ```bash
-python rps.py
+python main.py
 ```
 
 Sample gameplay:
@@ -143,4 +143,4 @@ See the `LICENSE` file for full details.
 
 **Author Contact:**  
 🌐 https://alhikam.me
-🐙 https://github.com/AlhikamWarsawa
+🐙 https://github.com/ZygmaCore
